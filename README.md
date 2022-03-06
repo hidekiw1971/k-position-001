@@ -1,25 +1,28 @@
-# module（共通部品）
+# compornent（共通部品）
 
-## ｘｘｘ
-
+## 概要
 - ｘｘｘ
 
-## イメージ画像
+## 仕様
 
 - xxx
 
-## portfolio url:
+## 注意事項
 
-- https://css-md-0000.wtb.cfbx.jp/
+- xxx
 
 ## 使い方
 
 - 「copy start」から「copy end」をコピペ。
 - css: src -> module -> xxx をコピペ。
 
-## 注意事項
-
+## イメージ画像
 - xxx
+
+## portfolio url:
+
+- https://css-md-0000.wtb.cfbx.jp/
+
 
 ## 参考にしたサイト
 
@@ -31,15 +34,11 @@
 
 ## 環境・使い方
 
-- ダウンロードしたフォルダを開く
-- ターミナルを開き、 npm i とコマンドを入力
-- node_modules と package-lock.json が生成されるのを確認する
-- 「 npx gulp 」とコマンドを入力すると動き出します
+- ダウンロードしたフォルダを開く。
+- ターミナルを開き、 npm i とコマンドを入力する。
+- node_modules と package-lock.json が生成されるのを確認する。
+- 「 npx gulp 」とコマンドを入力すると動き出します。
 
-## 仕様
-
--
--
 
 ## 備考
 
