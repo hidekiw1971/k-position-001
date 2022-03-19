@@ -1,5 +1,8 @@
 # compornent（共通部品）
 
+## イメージ画像
+- xxx
+
 ## 概要
 - ｘｘｘ
 
@@ -18,8 +21,10 @@
 - 「copy start」から「copy end」をコピペ。
 - css: src -> module -> xxx をコピペ。
 
-## イメージ画像
-- xxx
+## w3c htmlチェック結果
+- https://validator.w3.org/nu/
+## w3c cssチェック結果
+- https://jigsaw.w3.org/css-validator/
 
 ## portfolio url:
 
