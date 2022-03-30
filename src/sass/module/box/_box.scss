@@ -1,0 +1,14 @@
+@use "global" as *;
+.box {
+  display: inline-block;
+  max-width: rem(375);
+  width: 100%;
+  height: rem(500);
+  background-color: #333;
+  color: #fff;
+  position: relative;
+  @include mq(md) {
+  }
+  @include mq(xl) {
+  }
+}

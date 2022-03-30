@@ -6,7 +6,14 @@
 
 ## 概要
 
-- ｘｘｘ
+- `position: relative/absolute`で中央揃えする。
+-
+- `.box1`で以下を指定して中央に揃えてます。
+- `position: absolute;`
+- `top: 50%;`
+- `left: 50%;`
+- `transform: translate(-50%, -50%);`
+-
 - https://www.notion.so/000_web-component-index-c4b399010bf342e9b4e2ed516cf9c730
 
 ## 仕様
@@ -18,7 +25,7 @@
 
 ## 注意事項
 
-- xxx
+- `position: relative;`は設定した親要素配下の全てに効いてるのが判明した。
 
 ## 使い方
 
@@ -35,16 +42,16 @@
 
 ## portfolio url:
 
-- https://c-0000.wtb.cfbx.jp/
-- https://css-md-0000.wtb.cfbx.jp/
+- https://c-0041.wtb.cfbx.jp/
 
 ## 参考にしたサイト
 
-- xxx
+- transform プロパティを使って要素を上下中央に配置する
+- https://qiita.com/yukinaka/items/1da62535553b62cc50aa
 
 ## 更新履歴
 
-- 2022/mm/dd 初版 作成完了
+- 2022/3/30 初版 作成完了(position: relative/absolute で中央揃え)
 
 ## 環境・使い方
 
