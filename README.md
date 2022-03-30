@@ -2,8 +2,6 @@
 
 ## イメージ画像
 
-- xxx
-
 ## 概要
 
 - `position: relative/absolute`で中央揃えする。
