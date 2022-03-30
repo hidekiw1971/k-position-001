@@ -7,6 +7,7 @@
 ## 概要
 
 - ｘｘｘ
+- https://www.notion.so/000_web-component-index-c4b399010bf342e9b4e2ed516cf9c730
 
 ## 仕様
 
